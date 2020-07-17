@@ -1,3 +1,29 @@
+#main {
+  margin: auto;
+  border: 3px solid green;
+  width: 65vw;
+  background-color: #f8f8f8;
+}
+
+#title {
+  text-align: center;
+}
+
+#img-div {
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: #f0f0f0;
+  border: 3px solid red;
+}
+
+#img-div img {
+  margin: 1em auto 0.5em auto;
+  display: block;
+  max-width: 800px;
+  width: 100%;
+}
+
 .footer {
   position: fixed;
   left: 0;
